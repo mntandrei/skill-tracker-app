@@ -13,7 +13,7 @@ type RootLayoutProps = {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en">
-      <body className="antialiased font-sans bg-slate-950 text-slate-50 min-h-screen">
+      <body>
         {children}
       </body>
     </html>
