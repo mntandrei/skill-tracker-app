@@ -28,7 +28,6 @@ export default function Navbar() {
           </Link>
           <ThemeToggle />
         </div>
-
       </nav>
     </header>
   );
