@@ -1,11 +1,8 @@
 'use client';
 
-import Navbar from './components/NavBar';
-
 export default function Page() {
   return (
-    <main>
-      <Navbar />
+    <main className="mx-auto w-full max-w-5xl px-4 py-10">
     </main>
   );
 }
