@@ -13,7 +13,6 @@ export default function MainPage() {
             <ProgressTab />
           </div>
         </div>
-
       </div>
     </main>
   );
